@@ -15,3 +15,10 @@ public class Solution{
         return ans;
     }
 }
+class Magic{
+    public static void main(String args[]){
+        Solution obj=new Solution();
+        int new1=obj.solve(10);
+        System.out.println(new1);
+    }
+}
